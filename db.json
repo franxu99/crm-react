@@ -1,0 +1,43 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juach",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "hsfdgh",
+      "id": 1
+    },
+    {
+      "nombre": "Josuje",
+      "empresa": "Codigo Con Juan",
+      "email": "josue@juan.com",
+      "telefono": "31983913",
+      "notas": "asdfasd",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Francisco Javier Bedmar Vega",
+      "empresa": "Paco Herreri",
+      "email": "franlampav@hotmail.com",
+      "telefono": "2342352352",
+      "notas": "gdfsgd",
+      "id": 6
+    },
+    {
+      "nombre": "Juan Pérez",
+      "empresa": "Comidas Perez",
+      "email": "perez@gmail.com",
+      "telefono": "6345343421",
+      "notas": "La comida es mala\n",
+      "id": 7
+    }
+  ]
+}
